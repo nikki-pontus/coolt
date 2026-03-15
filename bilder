@@ -1,0 +1,22 @@
+<a href="index.html">Start</a> |
+<a href="ommig.html">Om mig</a> |
+<a href="bilder.html">Bilder</a>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bilder</title>
+</head>
+
+<body>
+
+<h1>Mina bilder</h1>
+
+<img src="bild1.jpg" width="300">
+<img src="bild2.jpg" width="300">
+
+<br><br>
+
+<a href="index.html">Tillbaka till startsidan</a>
+
+</body>
+</html>
