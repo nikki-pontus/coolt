@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Om mig</title>
+</head>
+
+<body>
+
+<h1>Om mig</h1>
+<p>Hej! Det här är en hemsida som ni kommer behöva gissa vem jag är. Jag lägger ut några ledtrådar och om ni vinner...så får ni 1000 kr.Lycka till...</p>
+
+<a href="index.html">Tillbaka till startsidan</a>
+
+</body>
+</html>
